@@ -1,6 +1,6 @@
 .PHONY: run migrate shell
 
-PROJECT = webapp
+PROJECT = ./
 
 # Run the local development server
 run:
